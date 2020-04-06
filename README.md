@@ -19,6 +19,24 @@ This collection is an easy way to exploit publicly available transcriptomics dat
 
 [Link to a zip file](https://drive.google.com/file/d/1U70seFitrm8VCfemx4rvH92PyMpm-jya/view?usp=sharing)
 
+## Multi-omics Ewing sarcoma datasets 
+
+### ICGC BOCA-FR study
+
+RNA-Seq profiles: 57 tumors
+
+CNV profiles: 97 tumors
+
+Simple somatic mutations: 98 tumors
+
+Structural somatic mutations: 98 tumors
+
+DNA Methylation profiles: 86 tumors
+
+Tumor samples with all avaiable profiles: 43 tumors
+
+[Link to a zip file](https://drive.google.com/file/d/1vos0B3w7Zk0XhVPXNV6pTYYenxjcTKL_/view?usp=sharing)
+
 ## Bibliography: publications reporting generation or analysis of omics data for Ewing sarcoma
 
 [Link to the public Mendeley library](https://www.mendeley.com/community/ewing-sarcoma-systems-biology-publications/)
