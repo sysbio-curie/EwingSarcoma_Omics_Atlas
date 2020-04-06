@@ -1,6 +1,6 @@
 # Ewing sarcoma Omics Atlas for systems biology studies
 
-The Ewing sarcoma Omics Atlas is created by the Computational Systems Biology of Cancer group in the framework of Horizon-2020 [iPaediatricCure](https://ipc-project.eu/) project
+The Ewing sarcoma Omics Atlas is created by the [Computational Systems Biology of Cancer group](http://sysbio.curie.fr) of [Institut Curie](http://www.curie.fr) in the framework of Horizon-2020 [iPaediatricCure](https://ipc-project.eu/) project
 
 ## Online catalogue of omics resources for Ewing Sarcoma
 
