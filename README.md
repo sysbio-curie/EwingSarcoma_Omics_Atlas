@@ -14,7 +14,7 @@ of Ewing sarcoma.
 
 The collection currently contains 1983 transcriptomic profiles from Ewing Sarcoma tumors and cell lines under various perturbations,
 including 740 scRNA-Seq profiles.
-Of note: since various studies used different platform for transcriptomic profiling, some pre-processing should be applied in order to harmozine the datasets for joint analysis.
+Of note: since various studies used different platform for transcriptomic profiling, some pre-processing should be applied in order to harmonize the datasets for joint analysis.
 This collection is an easy way to exploit publicly available transcriptomics data in machine learning studies.
 
 [Link to a zip file](https://drive.google.com/file/d/1U70seFitrm8VCfemx4rvH92PyMpm-jya/view?usp=sharing)
